@@ -1,6 +1,6 @@
 --------------------- Rest API Project - Overview ----------------------------------
 
-Small Rest API project that was coded for a software engineering class at BBZ in Schaffhausen.
+Small C++ REST-API project that was coded for a software engineering class at BBZ in Schaffhausen.
 
 The user can choose between a zen quote or a cat fact, as well as specify a number of entries up to 5.
 
