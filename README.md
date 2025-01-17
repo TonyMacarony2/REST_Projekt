@@ -19,5 +19,7 @@ Important:      In "Cmakelists.txt", input the corresponding [USER NAME] or link
 --------------------- References: ----------------------------------
 
 ZenQuotes          https://zenquotes.io/
+
 MeowFacts          https://github.com/wh-iterabb-it/meowfacts
+
 ASCII Art Archive  https://www.asciiart.eu/
